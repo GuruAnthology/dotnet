@@ -1,0 +1,16 @@
+C:\Users\GuruH\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\GuruH\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\GuruH\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\GuruH\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\GuruH\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\GuruH\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\GuruH\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\GuruH\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\GuruH\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Excel.dll
+C:\Users\GuruH\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\GuruH\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ExcelDataReader.dll
+C:\Users\GuruH\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ExcelDataReader.pdb
+C:\Users\GuruH\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ExcelDataReader.xml
+C:\Users\GuruH\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\GuruH\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\GuruH\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
